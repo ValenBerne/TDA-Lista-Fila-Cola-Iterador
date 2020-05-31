@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/valentin.berne/Desktop/TDA Lista/lista.c
+stdio.h
+-
+stdlib.h
+-
+lista.h
+C:/Users/valentin.berne/Desktop/TDA Lista/lista.h
+
+C:/Users/valentin.berne/Desktop/TDA Lista/lista.h
+stdbool.h
+-
+stddef.h
+-
+
+C:/Users/valentin.berne/Desktop/TDA Lista/lista_minipruebas.c
+lista.h
+C:/Users/valentin.berne/Desktop/TDA Lista/lista.h
+stdio.h
+-
+
+C:/Users/valentin.berne/Desktop/TDA Lista/main.c
+lista.c
+C:/Users/valentin.berne/Desktop/TDA Lista/lista.c
+lista_minipruebas.c
+C:/Users/valentin.berne/Desktop/TDA Lista/lista_minipruebas.c
+
