@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/valentin.berne/CLionProjects/TDA-Lista-Fila-Cola-Iterador/lista.c
+stdio.h
+-
+stdlib.h
+-
+lista.h
+C:/Users/valentin.berne/CLionProjects/TDA-Lista-Fila-Cola-Iterador/lista.h
+
+C:/Users/valentin.berne/CLionProjects/TDA-Lista-Fila-Cola-Iterador/lista.h
+stdbool.h
+-
+stddef.h
+-
+
+C:/Users/valentin.berne/CLionProjects/TDA-Lista-Fila-Cola-Iterador/lista_minipruebas.c
+lista.h
+C:/Users/valentin.berne/CLionProjects/TDA-Lista-Fila-Cola-Iterador/lista.h
+stdio.h
+-
+
+C:/Users/valentin.berne/CLionProjects/TDA-Lista-Fila-Cola-Iterador/main.c
+lista.c
+C:/Users/valentin.berne/CLionProjects/TDA-Lista-Fila-Cola-Iterador/lista.c
+lista_minipruebas.c
+C:/Users/valentin.berne/CLionProjects/TDA-Lista-Fila-Cola-Iterador/lista_minipruebas.c
+

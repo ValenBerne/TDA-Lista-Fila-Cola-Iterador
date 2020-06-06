@@ -1,0 +1,3 @@
+C:/Users/valentin.berne/CLionProjects/TDA-Lista-Fila-Cola-Iterador/cmake-build-release-mingw/CMakeFiles/TDA_Lista.dir
+C:/Users/valentin.berne/CLionProjects/TDA-Lista-Fila-Cola-Iterador/cmake-build-release-mingw/CMakeFiles/edit_cache.dir
+C:/Users/valentin.berne/CLionProjects/TDA-Lista-Fila-Cola-Iterador/cmake-build-release-mingw/CMakeFiles/rebuild_cache.dir

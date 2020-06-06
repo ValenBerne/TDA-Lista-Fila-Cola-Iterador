@@ -3,4 +3,4 @@ project(TDA_Lista C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_library(TDA_Lista main.c)
+add_executable(TDA_Lista main.c)
