@@ -1,0 +1,3 @@
+C:/Users/valentin.berne/Desktop/2020 Primer Cuatrimestre/TDA Lista/cmake-build-debug/CMakeFiles/TDA_Lista.dir
+C:/Users/valentin.berne/Desktop/2020 Primer Cuatrimestre/TDA Lista/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/valentin.berne/Desktop/2020 Primer Cuatrimestre/TDA Lista/cmake-build-debug/CMakeFiles/rebuild_cache.dir

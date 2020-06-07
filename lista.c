@@ -315,7 +315,7 @@ lista_iterador_t* lista_iterador_crear(lista_t* lista){
 }
 
 bool lista_iterador_tiene_siguiente(lista_iterador_t* iterador){
-    if(iterador ==  NULL    ||  iterador->nodo  ==  NULL){
+    if(iterador ==  NULL    ||  iterador->nodo->siguiente_nodo  ==  NULL){
         return false;
     }
 
@@ -331,8 +331,8 @@ void* lista_iterador_siguiente(lista_iterador_t* iterador){
         return NULL;
     }
 
-    void* elemento  =   iterador->nodo->dato;
     iterador->nodo  =   iterador->nodo->siguiente_nodo;
+    void* elemento  =   iterador->nodo->dato;
 
     return elemento;
 }

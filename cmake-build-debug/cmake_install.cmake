@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/valentin.berne/Desktop/TDA Lista
+# Install script for directory: C:/Users/valentin.berne/Desktop/2020 Primer Cuatrimestre/TDA Lista
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/valentin.berne/Desktop/TDA Lista/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/valentin.berne/Desktop/2020 Primer Cuatrimestre/TDA Lista/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
